@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#696969</color>
+    <color name="colorPrimaryDark">#bebebe</color>
+    <color name="LightOrange">#ffa500</color>
+    <color name="Orange">#ff8c00</color>
+    <color name="colorAccent">#000000</color>
+    <color name="background">#f8f8ff</color>
+    <color name="dropdown">#eee9e9</color>
+    <color name="dropdownbutton">#8b8989</color>
+</resources>
